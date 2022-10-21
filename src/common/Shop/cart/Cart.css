@@ -1,0 +1,29 @@
+.single-cart {
+  display: flex;
+  width: 500px;
+  margin-bottom: 10px;
+}
+
+.single-cart img {
+  margin-right: 5px;
+  border-radius: 10px;
+  margin-left: 5px;
+  width: 70px;
+}
+
+.single-cart p {
+  margin-right: 15px;
+}
+
+.cart-containers {
+  background-color: pink;
+  width: 500px;
+  padding: 20px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 10px;
+}
+
+.text {
+  text-align: center;
+}

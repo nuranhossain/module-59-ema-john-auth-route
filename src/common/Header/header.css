@@ -1,0 +1,42 @@
+.menu-bar {
+  display: flex;
+  justify-content: space-between;
+  height: 80px;
+  background-color: #1c2b35;
+  padding-left: 140px;
+  padding-right: 140px;
+  align-items: center;
+}
+
+.mybar {
+  display: flex;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.mybar li a {
+  color: white;
+  font-size: 18px;
+  margin-right: 30px;
+  transition: 0.3s;
+  transition: 0.3s;
+}
+
+.mybar li a:hover {
+  background-color: white;
+  border-radius: 10px;
+  color: #1c2b35;
+  padding: 12px 20px;
+  font-weight: 500;
+}
+
+.mybar li a:hover {
+  color: skyblue;
+}
+
+.d-flex {
+  display: flex;
+}
